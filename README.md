@@ -1,6 +1,6 @@
 # Student-Data-Base
 
-An iterator and Recursive Program that is a database that stores and manages student information. 
+An iterator and Recursive Program that stores and manages student information. 
 
 This program mirrors a database program for a school that stores and retrieves student information.
 This project was made for my CMIS 242 class in UMGC.
